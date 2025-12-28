@@ -22,7 +22,7 @@ const About = () => {
           className="text-center mb-16"
         >
           <span className="text-primary font-body text-sm tracking-[0.3em] uppercase mb-4 block">
-            Nossa História
+            Nossa Histórian - Demo
           </span>
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-foreground">
             Sobre o <span className="text-primary">Tsuru</span>
